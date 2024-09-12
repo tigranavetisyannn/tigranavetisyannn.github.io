@@ -1,22 +1,28 @@
 body{
  background-color: #d1cdcd;
 }
-img{
+header img{
   display: block;
-  width: 40%;
+  width: 80%; 
+}
+header{
+    color: #fff;
+    padding: 0;
+    text-align: center;
 }
 .card {
     width: 1150px;
-    border-radius: 10px;
+    border-radius: 40px;
     overflow: hidden;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
     transition: transform 0.3s, box-shadow 0.3s;
     background-color: #fff;
     justify-content: center;
     height: 95vh;
-    margin: 300px;
+    margin: 210px;
     background-color: #f4f4f4;
     font-family: Arial, sans-serif;
+
 }
 
 .card:hover {
@@ -32,7 +38,7 @@ img{
 
 
 .card-content {
-    padding: 16px;
+    padding: 5px;
 }
 
 .card-title {
@@ -48,105 +54,105 @@ img{
 }
 .card1 {
     width: 1150px;
-    border-radius: 5px;
+    border-radius: 40px;
     overflow: hidden;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
     transition: transform 0.3s, box-shadow 0.3s;
     background-color: #fff;
     justify-content: center;
     height: 95vh;
-    margin: 300px;
+    margin: 210px;
     background-color: #f4f4f4;
     font-family: Arial, sans-serif;
 }
 .card2{
 	width: 1150px;
-    border-radius: 10px;
+    border-radius: 40px;
     overflow: hidden;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
     transition: transform 0.3s, box-shadow 0.3s;
     background-color: #fff;
     justify-content: center;
-    height: 120vh;
-    margin: 300px;
+    height: 95vh;
+    margin: 210px;
     background-color: #f4f4f4;
     font-family: Arial, sans-serif;
 }
 .card3{
 	width: 1150px;
-    border-radius: 10px;
+    border-radius: 40px;
     overflow: hidden;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
     transition: transform 0.3s, box-shadow 0.3s;
     background-color: #fff;
     justify-content: center;
-    height: 150vh;
-    margin: 300px;
+    height: 95vh;
+    margin: 210px;
     background-color: #f4f4f4;
     font-family: Arial, sans-serif;
 }
 .card4{
 	width: 1150px;
-    border-radius: 10px;
+    border-radius: 40px;
     overflow: hidden;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
     transition: transform 0.3s, box-shadow 0.3s;
     background-color: #fff;
     justify-content: center;
-    height: 150vh;
-    margin: 300px;
+    height: 95vh;
+    margin: 210px;
     background-color: #f4f4f4;
     font-family: Arial, sans-serif;
 }
 .card5{
 	width: 1150px;
-    border-radius: 10px;
+    border-radius: 40px;
     overflow: hidden;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
     transition: transform 0.3s, box-shadow 0.3s;
     background-color: #fff;
     justify-content: center;
-    height: 170vh;
-    margin: 300px;
+    height: 110vh;
+    margin: 210px;
     background-color: #f4f4f4;
     font-family: Arial, sans-serif;
 }
 .card6{
 	width: 1150px;
-    border-radius: 10px;
+    border-radius: 40px;
     overflow: hidden;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
     transition: transform 0.3s, box-shadow 0.3s;
     background-color: #fff;
     justify-content: center;
-    height: 190vh;
-    margin: 300px;
+    height: 95vh;
+    margin: 210px;
     background-color: #f4f4f4;
     font-family: Arial, sans-serif;
 }
 .card7{
 	width: 1150px;
-    border-radius: 10px;
+    border-radius: 40px;
     overflow: hidden;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
     transition: transform 0.3s, box-shadow 0.3s;
     background-color: #fff;
     justify-content: center;
-    height: 99vh;
-    margin: 300px;
+    height: 107vh;
+    margin: 210px;
     background-color: #f4f4f4;
     font-family: Arial, sans-serif;
 }
 .card8{
     width: 1150px;
-    border-radius: 10px;
+    border-radius: 40px;
     overflow: hidden;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
     transition: transform 0.3s, box-shadow 0.3s;
     background-color: #fff;
     justify-content: center;
-    height: 165vh;
-    margin: 300px;
+    height: 95vh;
+    margin: 210px;
     background-color: #f4f4f4;
     font-family: Arial, sans-serif;
 }
