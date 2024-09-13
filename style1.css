@@ -1,14 +1,22 @@
 body{
- background-color: #d1cdcd;
+ 
 }
 header img{
   display: block;
-  width: 80%; 
+  width: 45%; 
 }
 header{
-    color: #fff;
+    background: white;
     padding: 0;
-    text-align: center;
+    font-size:170%;
+}
+
+main{
+    background-image: url("poqr.png");
+    height: 1200vh;
+/*    background-repeat: no-repeat;*/
+/*    background-size: cover;*/
+    background-position: center;
 }
 .card {
     width: 1150px;
